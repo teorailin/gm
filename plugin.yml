@@ -1,0 +1,13 @@
+name: gm
+main: teorailin\gm\Main
+api:
+- 3.0.0
+- 2.0.0
+- 1.0.0
+version: 1.0
+author: teorailin
+
+commands:
+ gm:
+  description: "abre form gamemodes"
+  permission: gm.command
